@@ -3,7 +3,7 @@ module github.com/gabe565/pre-commit-fluxcd
 go 1.20
 
 require (
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	golang.org/x/sync v0.6.0
 	gopkg.in/yaml.v3 v3.0.1
 )
